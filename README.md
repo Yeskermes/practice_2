@@ -25,7 +25,7 @@ Users should be able to:
 
 This is a screenshot of our solution.
 
-![Alt-screen1](1_1.png)
+![Alt-screen1](1_1.jfif)
 
 ## My process
 
